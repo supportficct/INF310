@@ -1,0 +1,5 @@
+c:\Users\Eddy\documents\visual studio 2013\Projects\WebArbol\Negocio\bin\Debug\Negocio.dll
+c:\Users\Eddy\documents\visual studio 2013\Projects\WebArbol\Negocio\bin\Debug\Negocio.pdb
+c:\Users\Eddy\documents\visual studio 2013\Projects\WebArbol\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+c:\Users\Eddy\documents\visual studio 2013\Projects\WebArbol\Negocio\obj\Debug\Negocio.dll
+c:\Users\Eddy\documents\visual studio 2013\Projects\WebArbol\Negocio\obj\Debug\Negocio.pdb

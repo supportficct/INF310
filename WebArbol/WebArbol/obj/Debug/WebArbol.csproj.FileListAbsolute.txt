@@ -1,0 +1,8 @@
+c:\users\eddy\documents\visual studio 2013\Projects\WebArbol\WebArbol\bin\WebArbol.dll.config
+c:\users\eddy\documents\visual studio 2013\Projects\WebArbol\WebArbol\bin\WebArbol.dll
+c:\users\eddy\documents\visual studio 2013\Projects\WebArbol\WebArbol\bin\WebArbol.pdb
+c:\users\eddy\documents\visual studio 2013\Projects\WebArbol\WebArbol\obj\Debug\WebArbol.csprojResolveAssemblyReference.cache
+c:\users\eddy\documents\visual studio 2013\Projects\WebArbol\WebArbol\obj\Debug\WebArbol.dll
+c:\users\eddy\documents\visual studio 2013\Projects\WebArbol\WebArbol\obj\Debug\WebArbol.pdb
+c:\users\eddy\documents\visual studio 2013\Projects\WebArbol\WebArbol\bin\Negocio.dll
+c:\users\eddy\documents\visual studio 2013\Projects\WebArbol\WebArbol\bin\Negocio.pdb
